@@ -405,6 +405,7 @@ services:
   wafregional:
   wafv2:
   wellarchitected:
+  wickr:
   wisdom:
   workdocs:
   workmail:
