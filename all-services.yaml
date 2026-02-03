@@ -144,7 +144,6 @@ services:
   elasticloadbalancing:
   elasticloadbalancingv2:
   elasticsearchservice:
-  elastictranscoder:
   emr:
   emrcontainers:
   emrserverless:
