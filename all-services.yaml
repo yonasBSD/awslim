@@ -361,6 +361,7 @@ services:
   sfn:
   shield:
   signer:
+  signerdata:
   signin:
   simspaceweaver:
   snowball:
